@@ -1,7 +1,7 @@
 
 # Challenge QA - María José Cobeña
 
-Ejercicio de Automatización E2E, y Ejercicio de APIS
+Ejercicio de APIS
 
 
 
